@@ -1,0 +1,1 @@
+# this is a website using flask to show posts,blogs and after clicking read more you can see more info about particular  blog and the contact form is also working to send email using smtp
